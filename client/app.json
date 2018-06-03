@@ -1,0 +1,55 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/invitation/index",
+        "pages/map/index",
+        "pages/bless/index",
+        "pages/chat/index",
+        "pages/addCgi/addCgi"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "王子龙和邱璇的婚礼",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false
+    },
+    "tabBar": {
+        "color": "#696e78",
+        "selectedColor": "#d4237a",
+        "borderStyle": "white",
+        "backgroundColor": "#f3f3f3",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "images/icon/main.png",
+                "selectedIconPath": "images/icon-cur/main.png",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/invitation/index",
+                "iconPath": "images/icon/invite.png",
+                "selectedIconPath": "images/icon-cur/invite.png",
+                "text": "邀请函"
+            },
+            {
+                "pagePath": "pages/map/index",
+                "iconPath": "images/icon/navigation.png",
+                "selectedIconPath": "images/icon-cur/navigation.png",
+                "text": "酒店导航"
+            },
+            {
+                "pagePath": "pages/bless/index",
+                "iconPath": "images/icon/rose.png",
+                "selectedIconPath": "images/icon-cur/rose.png",
+                "text": "好友祝福"
+            },
+            {
+                "pagePath": "pages/chat/index",
+                "iconPath": "images/icon/comment.png",
+                "selectedIconPath": "images/icon-cur/comment.png",
+                "text": "留言评论"
+            }
+        ]
+    }
+}

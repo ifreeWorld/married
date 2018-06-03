@@ -1,0 +1,15 @@
+{
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "wx4343c0fed4e0ecb3",
+	"projectname": "married",
+	"compileType": "miniprogram",
+	"condition": {}
+}
